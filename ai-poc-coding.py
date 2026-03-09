@@ -85,3 +85,4 @@ if __name__ == "__main__":
         print(f"Usage: python3 {sys.argv[0]} https://<fmc-host>")
         sys.exit(1)
     check_cve_2026_20079(sys.argv[1])
+
